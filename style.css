@@ -1,0 +1,27 @@
+body {
+    margin: 50px auto;
+    text-align: center;
+    font-family: "Helvetica Neue";
+    background-color: #0f1419;
+    color: #fff;
+}
+
+h1 {
+}
+
+h2 {
+    font-weight: 500;
+}
+
+p {
+    font-size: 15px;
+    font-weight: 200;
+    color: #9099a3;
+    line-height: 8px;
+}
+
+strong {
+    font-size: 15px;
+    color: #9099a3;
+    line-height: 8px;
+}
